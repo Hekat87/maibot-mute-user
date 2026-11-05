@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0.0",
-  "name": "静音用户 / Mute User",
+  "name": "别回复机器人",
   "description": "指定 QQ 号的消息只作为背景上下文，机器人永远不回复；整条路径零 token。",
   "author": {
     "name": "dsh",
@@ -43,5 +43,5 @@
       "zh-CN"
     ]
   },
-  "id": "dsh.mute-user"
+  "id": "github.hekat87.mute-user"
 }
