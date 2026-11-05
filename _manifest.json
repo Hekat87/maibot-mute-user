@@ -5,14 +5,14 @@
   "description": "指定 QQ 号的消息只作为背景上下文，机器人永远不回复；整条路径零 token。",
   "author": {
     "name": "dsh",
-    "url": "https://github.com/1633235400"
+    "url": "https://github.com/Hekat87"
   },
   "license": "MIT",
   "urls": {
-    "repository": "https://github.com/1633235400/maibot-mute-user",
-    "homepage": "https://github.com/1633235400/maibot-mute-user",
-    "documentation": "https://github.com/1633235400/maibot-mute-user/blob/main/README.md",
-    "issues": "https://github.com/1633235400/maibot-mute-user/issues"
+    "repository": "https://github.com/Hekat87/maibot-mute-user",
+    "homepage": "https://github.com/Hekat87/maibot-mute-user",
+    "documentation": "https://github.com/Hekat87/maibot-mute-user/blob/main/README.md",
+    "issues": "https://github.com/Hekat87/maibot-mute-user/issues"
   },
   "changelog": "CHANGELOG.md",
   "host_application": {
