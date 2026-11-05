@@ -1,0 +1,47 @@
+{
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "name": "静音用户 / Mute User",
+  "description": "指定 QQ 号的消息只作为背景上下文，机器人永远不回复；整条路径零 token。",
+  "author": {
+    "name": "dsh",
+    "url": "https://github.com/1633235400"
+  },
+  "license": "MIT",
+  "urls": {
+    "repository": "https://github.com/1633235400/maibot-mute-user",
+    "homepage": "https://github.com/1633235400/maibot-mute-user",
+    "documentation": "https://github.com/1633235400/maibot-mute-user/blob/main/README.md",
+    "issues": "https://github.com/1633235400/maibot-mute-user/issues"
+  },
+  "changelog": "CHANGELOG.md",
+  "host_application": {
+    "min_version": "1.3.0",
+    "max_version": "1.3.99"
+  },
+  "sdk": {
+    "min_version": "2.5.0",
+    "max_version": "2.99.99"
+  },
+  "dependencies": [],
+  "display": {
+    "icon": {
+      "type": "local",
+      "value": "assets/icon.svg",
+      "fallback": "user-x",
+      "background": "#1C272C"
+    }
+  },
+  "capabilities": [
+    "chat.open_session",
+    "maisaka.context.append"
+  ],
+  "i18n": {
+    "default_locale": "zh-CN",
+    "locales_path": "_locales",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  },
+  "id": "dsh.mute-user"
+}

@@ -1,0 +1,7 @@
+[plugin]
+enabled = true
+config_version = "1.0.0"
+
+[mute_user]
+users = []
+background_prefix = "[背景]"
